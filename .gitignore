@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Bundled runtime (not versioned - install or use system Node)
+node-portable/
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+*.db
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Local config
+.kilo/
